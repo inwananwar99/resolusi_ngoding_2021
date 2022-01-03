@@ -1,0 +1,4 @@
+Dear Diary Progressku,
+3 Januari 2022
+- Belajar Pendahuluan GIT & GITHUB WPU
+- Branching
